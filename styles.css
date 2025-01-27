@@ -1,0 +1,40 @@
+body {
+  background-color: #2a475c;
+}
+
+#input {
+  margin: auto;
+  height: 200px;
+  width: 300px;
+  border: 5px ridge #515d70;
+  background-color: #8498b8;
+  margin-top: 25%;
+}
+
+#user-input, button {
+  margin: auto;
+  display: block;
+  margin-top: 10px;
+  height: 20px;
+}
+
+p, h1 {
+  text-align: center;
+  font-family: Verdana, sans-serif;
+}
+
+h1 {
+  font-size: 20px;
+}
+
+p {
+  font-size: 12px;
+}
+
+#results-div {
+  margin: auto;
+  width: 300px;
+  border: 5px ridge #515d70;
+  background-color: #8498b8;
+}
+
